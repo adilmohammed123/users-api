@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "Adil",
+      "Email": "adil.shaik@engro.io"
+    },
+    {
+      "id": 2,
+      "Name":"Raziya",
+      "Email":"raziya.sultana@engro.io"
+    }
+  ]
+
+}
